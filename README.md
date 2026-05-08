@@ -1,4 +1,4 @@
-# Hospital Readmission Analysis (Excel Project)
+# Hospital Readmission Analysis 
 
 ## Project Overview
 
