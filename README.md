@@ -42,6 +42,7 @@ Tools Used
 Files Included
 Excel file (data analysis and dashboard)
 Dashboard screenshots
+
 Conclusion
 
 Through this project, I gained a strong understanding of how raw healthcare data can be transformed into meaningful insights using Excel. I learned how to clean and prepare data properly, which is a crucial step before any analysis. Working with Pivot Tables helped me summarize large datasets efficiently and uncover patterns that are not immediately visible.
